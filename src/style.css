@@ -1,0 +1,32 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  color: white;
+  background-color: black;
+}
+
+.banner {
+  background: linear-gradient(rgba(0,0,0,0),rgba(16,16,16,1)), url("./assets/bg.jpg");
+  height: 850px;
+  width: 100%;
+  background-repeat: none;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.banner p{
+  padding: 5px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
