@@ -75,6 +75,6 @@ export const continents = {
       {id: "8", name: "Oceania", image_path: './src/assets/oceania/8.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
       {id: "9", name: "Oceania", image_path: './src/assets/oceania/9.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
       {id: "10", name: "Oceania", image_path: './src/assets/oceania/10.jpg',description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."}
-    ],
+    ]
   }
   // console.log(continents.america.length)

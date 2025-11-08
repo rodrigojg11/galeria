@@ -49,3 +49,46 @@ a{
   color: white;
   text-decoration: none;
 }
+
+.principal {
+  background-color: rgb(101, 3, 101);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.secondario {
+  background-color: yellow;
+  padding: 20px;
+  width: 90%;
+  margin: 60px;
+}
+
+.secondario h1 {
+  color: red;
+  border: 1px solid red;
+}
+
+.tercero {
+  background-color: pink;
+  padding: 15px 15px;
+  margin-bottom: 20px;
+}
+
+.up img {
+  width: 100%;
+}
+
+.down {
+  background-color: red;
+  padding: 10px;
+  display: flex;
+  overflow: hidden;
+  gap: 20px;
+
+}
+
+.down img {
+  height: 100px;
+}
