@@ -13,16 +13,16 @@ export const continents = {
     ],
 
   america: [
-      {id: "1", name: "America", image_path: './src/assets/america/1.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "2", name: "America", image_path: './src/assets/america/2.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "3", name: "America", image_path: './src/assets/america/3.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "4", name: "America", image_path: './src/assets/america/4.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "5", name: "America", image_path: './src/assets/america/5.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "6", name: "America", image_path: './src/assets/america/6.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "7", name: "America", image_path: './src/assets/america/7.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "8", name: "America", image_path: './src/assets/america/8.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "9", name: "America", image_path: './src/assets/america/9.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "10", name: "America", image_path: './src/assets/america/10.jpg',description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."}
+      {id: "1", name: "America1", image_path: './src/assets/america/1.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+      {id: "2", name: "America2", image_path: './src/assets/america/2.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+      {id: "3", name: "America3", image_path: './src/assets/america/3.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+      {id: "4", name: "America4", image_path: './src/assets/america/4.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+      {id: "5", name: "America5", image_path: './src/assets/america/5.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+      {id: "6", name: "America6", image_path: './src/assets/america/6.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+      {id: "7", name: "America7", image_path: './src/assets/america/7.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+      {id: "8", name: "America8", image_path: './src/assets/america/8.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+      {id: "9", name: "America9", image_path: './src/assets/america/9.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+      {id: "10", name: "America10", image_path: './src/assets/america/10.jpg',description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."}
     ],
 
     antartida: [
