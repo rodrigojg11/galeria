@@ -35,7 +35,6 @@ export const continents = {
       {id: "7", name: "Antartida", image_path: './src/assets/antartida/7.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
       {id: "8", name: "Antartida", image_path: './src/assets/antartida/8.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
       {id: "9", name: "Antartida", image_path: './src/assets/antartida/9.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-      {id: "10", name: "Antartida", image_path: './src/assets/antartida/10.jpg',description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."}
     ],
 
     asia: [
