@@ -19,7 +19,6 @@ cards.addEventListener('click', e => {
     down.innerHTML = continents.africa.map(i => `<img src="${i.image_path}" alt="">`).join('')
   } else if (id === 'america') {
     down.innerHTML = continents.america.map(i => `<img src="${i.image_path}" data-name="${i.name}" alt="">`).join('')
-    console.log(capImages())
   } else if (id === 'antartida') {
     down.innerHTML = continents.antartida.map(i => `<img src="${i.image_path}" alt="">`).join('')
   } else if (id === 'asia') {
@@ -30,9 +29,6 @@ cards.addEventListener('click', e => {
     down.innerHTML = continents.oceania.map(i => `<img src="${i.image_path}" alt="">`).join('')
   } else {
     down.innerHTML = `<p>No existe esa categoría</p>`
-  }
-
-  function capImages() {
   }
 
   const upImg = document.querySelector('.up img')
