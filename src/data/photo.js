@@ -1,8 +1,8 @@
 export const continents = {
   africa: [
-    {id: "1", name: "Africa", image_path: './src/assets/africa/1.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-    {id: "2", name: "Africa", image_path: './src/assets/africa/2.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
-    {id: "3", name: "Africa", image_path: './src/assets/africa/3.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+    {id: "1", name: "Africa1", image_path: './src/assets/africa/1.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+    {id: "2", name: "Africa2", image_path: './src/assets/africa/2.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
+    {id: "3", name: "Africa3", image_path: './src/assets/africa/3.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
     {id: "4", name: "Africa", image_path: './src/assets/africa/4.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
     {id: "5", name: "Africa", image_path: './src/assets/africa/5.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
     {id: "6", name: "Africa", image_path: './src/assets/africa/6.jpg', description: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci temporibus optio quae ipsa nesciunt error sunt ratione magni."},
